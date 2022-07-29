@@ -150,10 +150,7 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
-.reveal {
-  position: relative;
-  opacity: 0;
-}
+
 
 .reveal.active {
   opacity: 1;
